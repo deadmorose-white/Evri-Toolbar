@@ -190,3 +190,6 @@ This repository serves as the official landing page for Evri Toolbar. The softwa
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of Evri Toolbar today!** | Updated March 2025
+
+---
+**Last updated:** 2026-11-08 11:11:32 UTC
