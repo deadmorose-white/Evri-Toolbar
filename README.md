@@ -192,4 +192,4 @@ This repository serves as the official landing page for Evri Toolbar. The softwa
 **Get the most recent version of Evri Toolbar today!** | Updated March 2025
 
 ---
-**Last updated:** 2026-11-13 06:07:06 UTC
+**Last updated:** 2026-11-13 15:15:09 UTC
